@@ -1,0 +1,105 @@
+.cardHeader{
+    background-image: linear-gradient(104deg, #0088ff, #7adcff );
+   
+    font-size:2rem;
+    color: white;
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+
+    
+}
+.cardBody{
+    background-color: white;
+  
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+    
+}
+.card{
+    box-shadow: 5px 4px 12px 5px rgba(0,0,0,0.2);
+    background-color: white;
+    max-width: 20rem;
+    width:300px;
+    margin-top: 30px;
+    margin-left: 30px;
+  
+}
+.cardMobilHeader{
+    background-image:linear-gradient(104deg, #2bed8c, #3dee95 );
+    
+    color: white;
+   
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+}
+.cardOyunHeader{
+    background-image:linear-gradient(104deg, #e381db, #9a00c9 );
+   
+    font-size:2rem;
+    color: white;
+  
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+}
+.incelefont{
+    font-weight: bold;
+    font-size:17px;
+    color: #263170;
+   
+}
+.programC{
+    background-image:linear-gradient(104deg, #3cb995, #6857d8 );
+    
+    font-size:2rem;
+    color: white;
+   
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+   
+
+}
+.java{
+    background-image:linear-gradient(104deg, #ff8d29, #2ee5ff );
+    max-width: 25rem;
+    font-size:2rem;
+    color: white;
+    
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+}
+.kotlin{
+    background-image:linear-gradient(104deg, #7d6ce3, #0d93d4 );
+    max-width: 25rem;
+    font-size:2rem;
+    color: white;
+  
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+}
+.swift{
+    background-image:linear-gradient(104deg, #f87832, #fc2320 );
+    max-width: 25rem;
+    font-size:2rem;
+    color: white;
+   
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+}
+.robotik{
+    background-image:linear-gradient(104deg, #945eff, #3700dd );
+    max-width: 25rem;
+    font-size:2rem;
+    color: white;
+   
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+}
+.linux{
+    background-image:linear-gradient(104deg, #278abf, #1a9dc5 );
+    max-width: 25rem;
+    font-size:2rem;
+    color: white;
+  
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+}

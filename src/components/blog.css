@@ -1,0 +1,39 @@
+.sliderimg{
+width:1500px;
+height: 400px;
+padding-left: 50px;
+padding-right: 50px;
+margin-left: 40px;
+border-radius: 100px;
+}
+.grey{
+    background-color: #edf1f3;
+}
+.avatar{
+    padding-left: 10px;
+}
+.cardblog {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 5px 4px 5px 5px rgba(0,0,0,0.2);
+    transition: 0.3s;
+  
+  
+      width: 1200px;
+      height: 200px;
+       padding-top: 30px;
+
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .cardblog:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .containerblog {
+    padding: 2px 16px;
+  }
+  hr.solid {
+    border-top: 3px solid #bbb;
+    margin-top: 10px;
+  }
